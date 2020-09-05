@@ -8,5 +8,6 @@ Projects I'm learning about now
  * [FastParse](https://github.com/lihaoyi/fastparse)
  * [11ty](https://www.11ty.dev/)
  * [Dotty](https://dotty.epfl.ch/)
+ * [Munit](https://scalameta.org/munit/)
  * [MongoDB](https://www.mongodb.com/)
  * [RocksDB](https://rocksdb.org/)
