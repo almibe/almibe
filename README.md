@@ -3,6 +3,7 @@ Twitter: https://twitter.com/alexmiberry
 Websites: Coming soon, lol.
 
 Projects I'm learning about now
+ * [julia](https://julialang.org)
  * [cats effect](https://typelevel.org/cats-effect/)
  * [monix](https://monix.io)
  * [FastParse](https://github.com/lihaoyi/fastparse)
