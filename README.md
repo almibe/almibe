@@ -4,11 +4,10 @@ Websites: Coming soon, lol.
 
 Projects I'm learning about now
  * [julia](https://julialang.org)
- * [cats effect](https://typelevel.org/cats-effect/)
- * [monix](https://monix.io)
- * [FastParse](https://github.com/lihaoyi/fastparse)
+ * [rust](https://rust-lang.org/)
+ * [nom](https://github.com/Geal/nom)
+ * [actix](https://actix.rs/)
+ * [tokio](https://tokio.rs/)
  * [11ty](https://www.11ty.dev/)
- * [Dotty](https://dotty.epfl.ch/)
- * [MUnit](https://scalameta.org/munit/)
  * [MongoDB](https://www.mongodb.com/)
  * [RocksDB](https://rocksdb.org/)
