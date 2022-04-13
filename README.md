@@ -1,13 +1,5 @@
 Twitter: https://twitter.com/alexmiberry
 
-Websites: Coming soon, lol.
-
-Projects I'm learning about now
- * [julia](https://julialang.org)
- * [rust](https://rust-lang.org/)
- * [nom](https://github.com/Geal/nom)
- * [actix](https://actix.rs/)
- * [tokio](https://tokio.rs/)
- * [11ty](https://www.11ty.dev/)
- * [MongoDB](https://www.mongodb.com/)
- * [RocksDB](https://rocksdb.org/)
+Currently messing around with a FLOSS knowledge graph project called [ligature](https://ligature.dev).
+It's still under heavy development, but see the [website](https://ligature.dev) and pinned repos for more info.
+Right now I'm mostly focusing on Scala (backend) and TypeScript (frontend) but also have a couple of Rust projects under my sleeve.
