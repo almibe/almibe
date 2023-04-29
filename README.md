@@ -1,6 +1,6 @@
-Mastodon (personal): https://fosstodon.org/@almibe
-<br>Mastodon (Ligature): https://hachyderm.io/@ligature
-<br>Twitter: https://twitter.com/alexmiberry
+* Mastodon (personal): https://fosstodon.org/@almibe
+* Mastodon (Ligature): https://hachyderm.io/@ligature
+* Twitter: https://twitter.com/alexmiberry
 
 Currently working on a FLOSS knowledge graph project called [ligature](https://ligature.dev).
 It's still under heavy development, but see the [website](https://ligature.dev) and pinned repos for more info.
