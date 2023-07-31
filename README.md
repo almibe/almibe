@@ -2,6 +2,6 @@
 * Mastodon (Ligature): https://hachyderm.io/@ligature
 * Twitter: https://twitter.com/alexmiberry
 
-Currently working on a FLOSS knowledge graph project called [ligature](https://ligature.dev).
+I'm currently working on a FLOSS knowledge graph project called [ligature](https://ligature.dev).
 It's still under heavy development, but see the [website](https://ligature.dev) and pinned repos for more info.
-Right now I'm mostly focusing on Scala, F# (backend/frontend) and TypeScript (frontend) but also have a couple of Rust projects up my sleeve.
+Right now I'm mostly focusing on Rust code but I also have an interest in F#, Scala, TypeScript, and Kotlin.
